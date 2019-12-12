@@ -1,28 +1,33 @@
-# Unity2019114f1-2D-Template
+#### Simple SubNumbers README
 
 ### Project description: 
-Introduction/Project summary 
+Two Input Fields with which numbers can be subtracted. 
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+- Mac OS Mojave 
+- Unity 2019.1.14f1 
+- Visual Studio Code 1.40.2
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+- WebGL 1920x780 
 
 ### Visuals: 
-Screenshots (concept and experience), Video
+<div>
+    <img src="Screenshots/Screenshot-Playmode.png">
+    <img src="Screenshots/Screenshot-Playmode.png">
+</div>
 
 ### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
+–
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+Template: Unity2019114f1-2D-Template (Link: https://github.com/3ahmnm-htlsbg/Unity2019114f1-2D-Template)
 
 ### Project state: 
-incl. progress in percent
+100%
 
 ### Limitations: 
+None
 
 ### Lessons Learned: 
-
-Copyright by you :)
+Copyright by ndistler
